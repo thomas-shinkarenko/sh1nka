@@ -2,7 +2,7 @@
 - Currently working for a brazilian company called BGT TECNOLOGIA LTDA as a Frontend Developer
 - Interested in learn and discovery different technologies
 - Currently learning React JS, Nest JS
-- Currently developing a Library App for study purposes. You can follow the development process here in GitHub!
+- Currently developing a Library App (React + Nest) for study purposes. You can follow the development process here in GitHub!
 - You can reach me by thomas.shinkarenko@gmail.com
 
 <!---
