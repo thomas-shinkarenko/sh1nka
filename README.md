@@ -3,7 +3,7 @@
 - Interested in learning and discovering different technologies
 - Currently learning React JS, Nest JS
 - Currently developing a Library App (React + Nest) for study purposes. You can follow the development process here in GitHub!
-- You can reach me by thomas.shinkao@gmail.com
+- You can reach me by thomas.shinka@gmail.com
 
 <!---
 sh1nka/sh1nka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
