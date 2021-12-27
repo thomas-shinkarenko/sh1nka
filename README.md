@@ -1,5 +1,5 @@
 - Hi, I’m @sh1nka
-- Currently working for a brazilian company called CUBi Energia as a Back-end Developer
+- Currently jobs: CUBi Energia -> Back-end Developer | BGT TECNOLOGIA LTDA -> Full Stack Developer
 - Interested in learning and discovering different technologies
 - Currently learning React JS, Nest JS
 - Currently developing an Academic Dashboard App (React JS + Nest JS) for study purposes. You can follow the development process here in GitHub!
