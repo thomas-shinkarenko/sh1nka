@@ -1,6 +1,6 @@
 - Hi, I’m @sh1nka
 - Interested in learning and discovering different technologies
-- Currently working on mastering React JS, Next JS, Node JS, NstJS JS
+- Currently working and mastering ReactJS, NextJS, NodeJS, NestJS
 - You can reach me at thomas.shinka@gmail.com
 
 <!---
